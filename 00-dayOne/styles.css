@@ -1,0 +1,84 @@
+body {
+    background-color: tomato;
+}
+
+.circle {
+    background-color: white;
+
+    height: 45em;
+    width: 45em;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+
+    /* margin auto applies an even margin on all sides of the element */
+    margin: auto; 
+
+    border-radius: 50%;
+    box-shadow: 5px 5px 50px black;
+}
+
+.topBun {
+    background-color: tan;
+
+    height: 5.5em;
+    width: 28em;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 15em;
+    right: 0;
+
+    margin: auto;
+
+    border-radius: 35% 35% 0 0;
+}
+
+.ketchup {
+    background-color: red;
+
+    height: 2em;
+    width: 28em;  
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 5em;
+    right: 0;
+
+    margin: auto;
+}
+
+.burger {
+    background-color: rgb(68, 40, 4);
+
+    height: 4em;
+    width: 28em;
+
+    position: absolute;
+    top: 3em;
+    left: 0;
+    bottom: 0;
+    right: 0;
+
+    margin: auto;
+}
+
+.bottomBun {
+    background-color: tan;
+
+    height: 5.5em;
+    width: 28em;
+
+    position: absolute;
+    top: 15em;
+    left: 0;
+    bottom: 0;
+    right: 0;
+
+    margin: auto;
+}
