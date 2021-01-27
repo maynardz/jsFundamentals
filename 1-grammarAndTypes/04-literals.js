@@ -46,3 +46,9 @@ console.log(typeof days);
 */
 
 console.log(days.length);
+
+/*
+    - when working with arrays, using square bracket notation allows us to pull a singular value out of the array by its index number
+    - when working with indices, JavaScript will start counting from 0
+    - when using the length property, JS will start counting from 1
+*/
